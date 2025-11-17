@@ -32,7 +32,7 @@ python-craft-automation-6-projects/
 
 6 powerful Python automation tools made for handmade craft businesses (perfect for portfolio & interviews)
 
-Live Demo & Source → https://github.com/tera-username/python-craft-automation-6-projects
+Live Demo & Source → https://github.com/faizankhan07867/python-craft-automation-6-projects
 
 ## 6 Projects (All Working – Just Run `python main.py`)
 
