@@ -2,7 +2,7 @@
 
 import os
 
-folder = "images"  # Apne images folder ka naam daal do
+folder = "images"  
 os.makedirs(folder, exist_ok=True)
 
 print("Bulk File Renamer - Craft Products")
