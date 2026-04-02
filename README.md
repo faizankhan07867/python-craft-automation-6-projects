@@ -51,7 +51,8 @@ Live Demo & Source → https://github.com/faizankhan07867/python-craft-automatio
 - Tkinter (built-in)
 - 100% offline working
 
-## How to Run (2 seconds)
+## How to Run
 
 # Go to each folder and run
+
 python main.py
